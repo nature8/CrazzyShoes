@@ -1,0 +1,35 @@
+.register-page .card-register {
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto; /* Set to auto to accommodate all elements */
+  }
+  
+  .register-page .register-form {
+    margin-bottom: 15px;
+  }
+  
+  .register-page .register-button {
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .register-page .register-footer {
+    margin-top: 20px; /* Add margin to the top */
+    padding-top: 10px;
+    border-top: 1px solid #ddd; /* Optional: add a top border */
+  }
+  
+  .register-page .register-footer h6 {
+    margin: 0;
+    color: black;
+  }
+  
+  .register-page .footer i.heart {
+    color: red;
+  }
+  

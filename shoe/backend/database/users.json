@@ -1,0 +1,28 @@
+
+
+
+[
+  {
+    "isAdmin": false,
+    "name": "Lionel Messi",
+    "email": "email.co77777",
+    "passwordHash": "$2a$10$k3NuMOP23VrkUEmIn5uBzuiNZ0.YCOc3uhMAAHBN6zgOtdmLuZSQa",
+    "phone": "700000002"
+  },
+  {
+    "isAdmin": false,
+    "name": "Fadi Nouh",
+    "email": "fadinoh@gmail.com",
+    "passwordHash": "$2a$10$cXyRxEWzWFpF1zoeDhKIOORZuhfscZkggvZ/kNjaAxj3I2y8TiRnS",
+    "phone": "702241333"
+  },
+  {
+    "isAdmin": true,
+    "name": "Tiago Pereira",
+    "email": "tiago@gmail.com",
+    "passwordHash": "$2a$10$0TZN47PNyhVml7I7B32xtuvbR04dmiAhRKBUUvNE4kQnFS5zCZNZK",
+    "phone": "7022417777"
+  }
+]
+
+ 
